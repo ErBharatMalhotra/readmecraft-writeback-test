@@ -1,3 +1,3 @@
 # readmecraft-writeback-test
 
-Original README used by the write-back live test.
+Direct commit written by ReadmeCraft live test.
